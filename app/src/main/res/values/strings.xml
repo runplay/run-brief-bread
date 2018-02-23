@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Bread</string>
+    <string name="www_link">www.brief.ink</string>
+    <string name="email_link">support@brief.ink</string>
+    <string name="about_by">© BRIEF APP LTD, UK, 2014 onwards</string>
+
+
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="no_data">No data</string>
+    <string name="news_reindex">One moment, just applying filter changes to past news items</string>
+    <string name="news_no_pub">No News items to display for this source</string>
+    <string name="news_custom_added_note">Enter a valid RSS http url (http://domain/uri)</string>
+    <string name="news_custom_added_youtube">Enter YouTube channel id</string>
+    <string name="news_custom_added_vimeo">Enter Vimeo channel id</string>
+
+
+    <string name="news_custom_added_title">Custom added feeds</string>
+    <string name="news_custom_added_sub_title">Your custom added RSS news feeds</string>
+    <string name="news_custom_rss_invalid">Could not validate or get the RSS url</string>
+    <string name="news_custom_channel_invalid">Enter valid channel ID</string>
+
+    <string name="news_custom_rss_already">Rss feed is already selected</string>
+    <string name="news_delete_custom">Delete your custom added RSS feed?</string>
+    <string name="news_delete_title">Delete RSS?</string>
+    <string name="news_select_title">Select below news feeds of interest</string>
+    <string name="news_key_include_explain">type in keywords or \"key terms\" followed with a space to show only news that DO contain them</string>
+    <string name="news_key_disclude_explain">type in keywords or \"key terms\" followed with a space to show only news that DO NOT contain them</string>
+    <string name="news_key_title">Keyword filters</string>
+    <string name="news_feeds_title">News Feeds</string>
+    <string name="news_key_style">Choose filter style</string>
+    <string name="news_key_style_include">Include</string>
+    <string name="news_key_style_disclude">Remove</string>
+    <string name="news_key_style_include_desc">Filter includes before removes</string>
+    <string name="news_key_style_disclude_desc">Filter removes before includes</string>
+    <string name="news_feeds_heading">Choose or set your preferred RSS news feeds and filters</string>
+    <string name="news_feeds_sync_fast">Fast sync (1hr)</string>
+    <string name="news_feeds_sync_medium">Medium sync (3hr)</string>
+    <string name="news_feeds_sync_slow">Slow sync (24hr)</string>
+    <string name="label_syncing">Syncing</string>
+    <string name="label_add">Add</string>
+
+
+
+
+    <string name="copied_to_clip">Copied to clipboard</string>
+    <string name="copy_to_clip">Copy to clipboard</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="news_add_text">Add source</string>
+
+    <string name="news_all_feeds">All feeds</string>
+
+    <string name="label_yes">Yes</string>
+    <string name="label_no">No</string>
+    <string name="news_menu_options">RSS options</string>
+    <string name="label_working">Working...</string>
+
+    <string name="disable_javascript">Disable Javascript in news view (faster page load and display)</string>
+
+
+    <string name="news_error_load">Could not load, check your internet connection.</string>
+
+    <string name="action_paste">Paste</string>
+    <string name="label_copy">Copy</string>
+
+    <string name="label_delete">Delete</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+
+    <string name="label_open">Open</string>
+    <string name="label_remove">Remove</string>
+    <string name="label_images">Image</string>
+    <string name="label_edit">Edit</string>
+
+    <string name="file_explore_empty">Empty</string>
+
+    <string name="settings_tab1">Settings</string>
+    <string name="settings_tab2">Help</string>
+    <string name="settings_tab3">About</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_desc">Change the preferred colour style</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_head_visual">Theme</string>
+    <string name="help_shortcuts">Navigation</string>
+    <string name="help_shortcuts_desc">Use the 3 stripes menu button to open the navigation slider for options and quick shortcuts around the file system</string>
+
+    <string name="help_features">Useful features</string>
+    <string name="help_edit_news">Edit new feeds, click here to add/ change feeds and set refresh schedule</string>
+    <string name="help_edit_Filters">Edit Filters, use Keywords to create include and remove rules for the items display in the [All news] section</string>
+    <string name="help_settings">Settings allows to change the app to suit your tastes, choose dark or light styling, specify when to archive delete data and Speed up Items load time.</string>
+    <string name="help_notify">Notify area allows for detailed set up how to be alerted</string>
+
+
+    <string name="search_hint">type search keywords...</string>
+    <string name="label_share">Share</string>
+    <string name="label_about">About</string>
+    <string name="about_version">version</string>
+
+
+    <string name="share_using">Shared from Bread - RSS reader app</string>
+    <string name="notify_new_messages">new messages</string>
+
+
+    <string name="no_data_news">Set up your news sources to see news items appear here</string>
+    <string name="startup_quick_start">Quick start</string>
+    <string name="startup_random_choice">Get going with the following random chosen news feeds</string>
+
+
+    <string name="startup_or_detail_setup">Or choose your own news feeds to use</string>
+    <string name="startup_manual_setup">Setup</string>
+
+    <string name="nav_empty_feeds">Choose preferred news channel\'s to start using Bread</string>
+
+
+    <string name="about_send_to">Please send any tips, ideas, corrections to:</string>
+    <string name="label_archive">Archive</string>
+
+    <string name="label_extract">Extract</string>
+    <string name="label_help">Help</string>
+    <string name="label_options">Options</string>
+    <string name="label_loading">Loading</string>
+    <string name="label_search">Search</string>
+    <string name="search_start">Enter search terms above and click to search</string>
+    <string name="search_searching">Searching</string>
+
+    <string name="no_sd_card_access">SD Card is locked for access, unlock to use app</string>
+    <string name="action_use">Use</string>
+
+
+
+    <string name="latest_news">All Feeds</string>
+    <string name="starred_news">Starred</string>
+    <string name="video_channels">Type</string>
+
+
+
+    <string name="settings_notify_tab">Notify</string>
+    <string name="settings_alerts">Notify alerts</string>
+
+    <string name="settings_archive_images_head">Cleanup: Delete images</string>
+    <string name="settings_archive_images">Delete images after </string>
+    <string name="settings_archive_stories_head">Cleanup: Delete stories</string>
+    <string name="settings_archive_stories">Delete stories after </string>
+    <string name="settings_archive_stories_count">News article count: </string>
+    <string name="settings_archive_images_count">Image count: </string>
+    <string name="text_days">days</string>
+
+    <string name="settings_alert_news">When filtered News received</string>
+    <string name="settings_alert_sound">Play default sound</string>
+    <string name="settings_alert_vibrate">Vibrate device</string>
+    <string name="settings_alert_repeat_head">After first alert, if more new alerts</string>
+    <string name="settings_alert_time_quiet">No alerts</string>
+    <string name="settings_alert_time_vibrate">Allow vibrate</string>
+    <string name="settings_alert_time_both">Allow vibrate and sound</string>
+    <string name="settings_alert_schedule">Alert time schedule</string>
+    <string name="settings_alert_schedule_desc">Choose during each 30 minute period below how Bread is allowed to alert, none, vibrate only or vibrate and play sound</string>
+    <string name="news_title">RSS feeds</string>
+</resources>

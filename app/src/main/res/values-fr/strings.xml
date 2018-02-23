@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">Bread</string>
+    <string name="www_link">www.brief.ink</string>
+    <string name="email_link">support@brief.ink</string>
+    <string name="about_by">© BRIEF APP LTD, UK, 2014 en avant</string>
+
+
+    <string name="navigation_drawer_open">Ouvrir la navigation</string>
+    <string name="navigation_drawer_close">Fermer la navigation</string>
+    <string name="action_search">Trouver</string>
+
+
+    <string name="no_data">Pas de données</string>
+    <string name="news_reindex">Un instant, l\'application de filtre passe à l\'histoire news</string>
+    <string name="news_no_pub">Rien à afficher pour cette source</string>
+    <string name="news_custom_added_note">Entrez un valide RSS http url (http://domain/uri)</string>
+    <string name="news_custom_added_youtube">Entrez YouTube channel id</string>
+    <string name="news_custom_added_vimeo">Entrez Vimeo channel id</string>
+
+
+    <string name="news_custom_added_title">Flux personnalisés</string>
+    <string name="news_custom_added_sub_title">Vos RSS flux</string>
+    <string name="news_custom_rss_invalid">Impossible de valider ou obtenir le URL du flux RSS</string>
+    <string name="news_custom_channel_invalid">Entrer ID de canal valide</string>
+
+    <string name="news_custom_rss_already">Flux RSS est déjà sélectionné</string>
+    <string name="news_delete_custom">Supprimer vos personnalisé ajouté flux RSS?</string>
+    <string name="news_delete_title">Supprimer RSS?</string>
+    <string name="news_select_title">Sélectionnez nouvelles nourrit d\'intérêt</string>
+    <string name="news_key_include_explain">Type dans les mots clés ou termes clés a suivi avec un espace pour montrer que des nouvelles qui ne contiennent</string>
+    <string name="news_key_disclude_explain">Type dans les mots clés ou termes clés a suivi avec un espace pour montrer que des nouvelles qui ne contiennent pas</string>
+    <string name="news_key_title">filtres mots-clés</string>
+    <string name="news_feeds_title">Flux</string>
+    <string name="news_key_style">Choisissez le style de filtre</string>
+    <string name="news_key_style_include">comprendre</string>
+    <string name="news_key_style_disclude">Retirer</string>
+    <string name="news_key_style_include_desc">Filtre comprend avant retirer</string>
+    <string name="news_key_style_disclude_desc">Filtre retirer avant comprend</string>
+    <string name="news_feeds_heading">Choisissez des aliments et des filtres de nouvelles RSS préférés</string>
+    <string name="news_feeds_sync_fast">Rapide sync (1hr)</string>
+    <string name="news_feeds_sync_medium">Moyen sync (3hr)</string>
+    <string name="news_feeds_sync_slow">Lent sync (24hr)</string>
+    <string name="label_syncing">Synchronisation</string>
+    <string name="label_add">Ajouter</string>
+
+
+
+
+
+    <string name="copied_to_clip">Copié clipboard</string>
+    <string name="copy_to_clip">Copié clipboard</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="news_add_text">Ajouter un flux</string>
+    <string name="news_title">Fil d\'actualité</string>
+    <string name="news_all_feeds">tous les flux</string>
+
+    <string name="label_yes">Oui</string>
+    <string name="label_no">Non</string>
+    <string name="news_menu_options">Options</string>
+    <string name="label_working">Travail...</string>
+
+    <string name="disable_javascript">Désactiver JavaScript dans les nouvelles vue (page plus rapide charge et affichage )</string>
+
+
+    <string name="news_error_load">Impossible de charger , vérifiez votre connexion Internet.</string>
+   <string name="action_settings">Paramètres</string>
+    <string name="action_paste">Pâte</string>
+    <string name="label_copy">Copie</string>
+
+
+
+    <string name="label_delete">Effacer</string>
+    <string name="label_cancel">Annuler</string>
+    <string name="ok">OK</string>
+
+    <string name="label_open">Ouvert</string>
+    <string name="label_remove">Retirer</string>
+    <string name="label_images">Image</string>
+    <string name="label_edit">modifier</string>
+
+    <string name="file_explore_empty">Vide</string>
+
+    <string name="settings_tab1">Paramètres</string>
+    <string name="settings_tab2">Aidez-moi</string>
+    <string name="settings_tab3">Environ</string>
+    <string name="settings_theme">Thème</string>
+    <string name="settings_theme_desc">Changez la couleur de style préféré</string>
+    <string name="settings_theme_dark">Foncé</string>
+    <string name="settings_theme_light">Lumière</string>
+
+    <string name="settings_head_visual">Thème</string>
+    <string name="help_shortcuts">Navigation</string>
+    <string name="help_shortcuts_desc">Utilisez le bouton de menu 3 bandes pour ouvrir le curseur de navigation pour les options et raccourcis rapides à travers le système de fichiers</string>
+
+    <string name="help_features">Fonctions utiles</string>
+    <string name="help_edit_news">Modifier RSS, cliquez ici pour ajouter / changer nourrit et le calendrier de rafraîchissement paramétré</string>
+    <string name="help_edit_Filters">Modifier les filtres, utiliser des mots clés pour créer inclure et supprimer des règles pour les éléments affichés dans la [ Toutes les nouvelles ] section</string>
+    <string name="help_settings">Réglages permet de changer l\'application en fonction de vos goûts , choisir un style clair ou foncé , spécifier quand archiver suppression des données et d\'accélérer le temps de chargement Articles.</string>
+    <string name="help_notify">Avertissez- région permet de mettre en place détaillée comment être alerté</string>
+
+
+    <string name="search_hint">Entrer Recherche de mots...</string>
+    <string name="label_share">Partager</string>
+    <string name="label_about">Environ</string>
+    <string name="about_version">version</string>
+
+
+    <string name="share_using">Commune from Bread - l\'application de lecteur</string>
+    <string name="notify_new_messages">les nouveaux messages</string>
+
+
+    <string name="no_data_news">Configurez vos flux pour voir les articles apparaissent ici</string>
+    <string name="startup_quick_start">Démarrage rapide</string>
+    <string name="startup_random_choice">Commencez par les fils de nouvelles aléatoires choisis suivants</string>
+
+
+    <string name="startup_or_detail_setup">Ou choisir plusieurs flux à utiliser</string>
+    <string name="startup_manual_setup">Installer</string>
+
+    <string name="nav_empty_feeds">Choisissez des aliments préférés de commencer à utiliser Bread</string>
+
+
+    <string name="about_send_to">S\'il vous plaît envoyer vos conseils, des idées, des corrections à:</string>
+    <string name="label_archive">Archives</string>
+    <string name="label_extract">Extrait</string>
+
+    <string name="label_help">Aidez-moi</string>
+    <string name="label_options">Options</string>
+    <string name="label_loading">Chargement</string>
+    <string name="label_search">Trouver</string>
+    <string name="search_start">Entrez les termes de recherche ci-dessus et cliquez pour chercher</string>
+    <string name="search_searching">Découverte</string>
+
+    <string name="no_sd_card_access">Carte SD est verrouillé pour l\'accès, déverrouiller utiliser bref</string>
+
+    <string name="action_use">accepter</string>
+
+
+
+    <string name="latest_news">Tous les flux</string>
+    <string name="starred_news">étoilé</string>
+    <string name="video_channels">Taper</string>
+
+
+
+    <string name="settings_notify_tab">Avertissez</string>
+    <string name="settings_alerts">Avertissez alertes</string>
+
+    <string name="settings_archive_images_head">Nettoyage: Supprimez les images</string>
+    <string name="settings_archive_images">Supprimez les images après </string>
+    <string name="settings_archive_stories_head">Nettoyage: Supprimer histoires</string>
+    <string name="settings_archive_stories">Supprimer histoires après </string>
+
+    <string name="settings_archive_stories_count">Nombre de RSS: </string>
+    <string name="settings_archive_images_count">Nombre d\'image: </string>
+    <string name="text_days">jours</string>
+
+    <string name="settings_alert_news">Lorsque filtré reçu RSS</string>
+    <string name="settings_alert_sound">Son jeu par défaut</string>
+    <string name="settings_alert_vibrate">dispositif Vibreur</string>
+    <string name="settings_alert_repeat_head">Après la première alerte, si plus de nouvelles alertes</string>
+
+    <string name="settings_alert_time_quiet">Aucune alerte</string>
+    <string name="settings_alert_time_vibrate">Autoriser vibrer</string>
+    <string name="settings_alert_time_both">Autoriser vibreur et sonore</string>
+    <string name="settings_alert_schedule">Calendrier Alerte</string>
+    <string name="settings_alert_schedule_desc">Choisissez au cours de chaque période de 30 minutes ci-dessous comment le Bread app est autorisé à alerter , aucun , vibrer seulement ou vibrer et jouer son</string>
+</resources>

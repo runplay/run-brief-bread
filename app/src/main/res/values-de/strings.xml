@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Bread</string>
+    <string name="www_link">www.brief.ink</string>
+    <string name="email_link">support@brief.ink</string>
+    <string name="about_by">© BRIEF APP LTD, UK, 2014 weiter</string>
+
+
+
+    <string name="navigation_drawer_open">Öffnen Navigation</string>
+    <string name="navigation_drawer_close">Schließen Navigation</string>
+
+    <string name="action_search">Suche</string>
+
+    <string name="action_settings">Einstellungen</string>
+
+
+    <string name="no_data">Keine Daten</string>
+    <string name="news_reindex">Ein Moment , der Anwendung Filter ändert den letzten Nachrichten</string>
+    <string name="news_no_pub">Keine Einträge zu dieser Quelle anzeigen</string>
+    <string name="news_custom_added_note">Geben Sie gültige RSS http url (http://domain/uri)</string>
+    <string name="news_custom_added_youtube">Geben Sie YouTube-Kanal ID</string>
+    <string name="news_custom_added_vimeo">Geben Sie Vimeo -Kanal -ID</string>
+
+
+    <string name="news_custom_added_title">Kundenspezifisch RSS feeds</string>
+    <string name="news_custom_added_sub_title">Ihre benutzerdefinierten hinzugefügt RSS-Nachrichtenquellen</string>
+    <string name="news_custom_rss_invalid">Konnte nicht validieren oder nutzen Sie die RSS -URL</string>
+    <string name="news_custom_channel_invalid">Geben Sie gültige Kanal-ID</string>
+
+    <string name="news_custom_rss_already">Diesen RSS-Feed bereits ausgewählt</string>
+    <string name="news_delete_custom">Löschen Ihrer benutzerdefinierten hinzugefügt RSS-Feed?</string>
+    <string name="news_delete_title">RSS löschen?</string>
+    <string name="news_select_title">Wählen Sie unter RSS-Feeds von Interesse</string>
+    <string name="news_key_include_explain">geben Sie Schlüsselwörter oder Schlüsselbegriffe, gefolgt durch ein Leerzeichen , um nur Nachrichten, die enthalten, zeigen</string>
+    <string name="news_key_disclude_explain">Typ in Schlüsselwörtern oder Schlüsselbegriffen folgte mit einem Raum, um nur Nachrichten, die nicht enthalten, ihnen zu zeigen</string>
+    <string name="news_key_title">Keyword -Filter</string>
+    <string name="news_feeds_title">RSS-Feeds</string>
+    <string name="news_key_style">Wählen Sie Filter Stil</string>
+    <string name="news_key_style_include">Einschließen</string>
+    <string name="news_key_style_disclude">Entfernen</string>
+    <string name="news_key_style_include_desc">Filter Einschließen, bevor entfernt</string>
+    <string name="news_key_style_disclude_desc">Filter entfernt, bevor Einschließen</string>
+    <string name="news_feeds_heading">Wählen Sie oder Ihren bevorzugten RSS-Feeds und Filter</string>
+    <string name="news_feeds_sync_fast">Fast sync (1hr)</string>
+    <string name="news_feeds_sync_medium">Medium sync (3hr)</string>
+    <string name="news_feeds_sync_slow">Langsam sync (24hr)</string>
+    <string name="label_syncing">Syncing</string>
+    <string name="label_add">gehen</string>
+
+
+
+    <string name="copied_to_clip">In die Zwischenablage kopiert</string>
+    <string name="copy_to_clip">In die Zwischenablage kopieren</string>
+    <string name="action_refresh">Aktualisieren</string>
+    <string name="news_add_text">Feed hinzufügen</string>
+    <string name="news_title">RSS-Feeds</string>
+    <string name="news_all_feeds">Alle RSS-Feeds</string>
+
+    <string name="label_yes">Ja</string>
+    <string name="label_no">Nein</string>
+    <string name="news_menu_options">RSS -Optionen</string>
+    <string name="label_working">Arbeiten...</string>
+
+    <string name="disable_javascript">Deaktivieren Sie Javascript in Nachrichten (schnellere Lade und Anzeige)</string>
+
+
+    <string name="news_error_load">Konnte nicht geladen werden , überprüfen Sie Ihre Internetverbindung.</string>
+
+    <string name="action_paste">Paste</string>
+    <string name="label_copy">Kopie</string>
+
+    <string name="label_delete">Löschen</string>
+    <string name="label_cancel">Absagen</string>
+    <string name="ok">OK</string>
+
+
+    <string name="label_open">Öffnen</string>
+    <string name="label_remove">Entfernen</string>
+    <string name="label_images">Image</string>
+    <string name="label_edit">Wechseln</string>
+
+    <string name="file_explore_empty">Leer</string>
+
+    <string name="settings_tab1">Optionen</string>
+    <string name="settings_tab2">Hilfe</string>
+    <string name="settings_tab3">über</string>
+
+    <string name="settings_theme">Leitmotiv</string>
+    <string name="settings_theme_desc">Ändern Sie bevorzugte Farbe Stil</string>
+    <string name="settings_theme_dark">Dunkel</string>
+    <string name="settings_theme_light">Licht</string>
+
+
+    <string name="settings_head_visual">Leitmotiv</string>
+    <string name="help_shortcuts">Schifffahrt</string>
+    <string name="help_shortcuts_desc">Verwenden Sie den 3 Streifen Menü-Taste, um das Navigationsschiebereglerfür Optionen und schnellen Abkürzungen rund um das Dateisystem zu öffnen</string>
+
+
+    <string name="help_features">UNützliche Funktionen</string>
+    <string name="help_edit_news">Bearbeiten Sie neue Feeds, klicken Sie hier, um hinzuzufügen / Änderungs Feeds und stellen Aktualisierungszeitplan</string>
+    <string name="help_edit_Filters">Filter bearbeiten, verwenden Sie Schlüsselwörter, um zu erstellen sind , und entfernen Sie Regeln für die Einzelteile werden im Abschnitt [Alle RSS-Feeds]</string>
+    <string name="help_settings">Einstellungen erlaubt es, die App zu ändern, um Ihrem Geschmack, wählen Sie dunkle oder helle Styling, anzugeben, wann archivieren Daten zu löschen und zu beschleunigen, Artikel Ladezeit.</string>
+    <string name="help_notify">Benachrichtigen Bereich ermöglicht einen detaillierten eingerichtet, wie um benachrichtigt zu werden</string>
+
+
+    <string name="search_hint">Suchbegriffe...</string>
+    <string name="label_share">Aktie</string>
+    <string name="label_about">Etwa</string>
+    <string name="about_version">version</string>
+
+
+    <string name="share_using">RSS-Reader App - vom Bread Gemeinschafts</string>
+    <string name="notify_new_messages">neue Nachrichten</string>
+
+
+    <string name="no_data_news">Richten Sie Ihre RSS-Feeds, um zu sehen Nachrichten werben</string>
+    <string name="startup_quick_start">Schnellstart</string>
+    <string name="startup_random_choice">Beginnen Sie mit den folgenden zufällig ausgewählten News-Feeds</string>
+
+
+    <string name="startup_or_detail_setup">Oder wählen Sie Ihre eigenen Nachrichten-Feeds zu bedienen</string>
+    <string name="startup_manual_setup">Konfig.</string>
+
+    <string name="nav_empty_feeds">Wählen bevorzugten News-Kanäle zu starten mit Bread</string>
+
+
+    <string name="about_send_to">Bitte senden Sie irgendwelche Tipps, Ideen, Korrekturen:</string>
+    <string name="label_archive">Archivieren</string>
+    <string name="label_extract">Extrakt</string>
+
+    <string name="label_help">Hilfe</string>
+    <string name="label_options">Optionen</string>
+    <string name="label_loading">Loading</string>
+    <string name="label_search">Suche</string>
+    <string name="search_start">Geben Sie Suchbegriffe ein und klicken Sie oben, um zu suchen</string>
+    <string name="search_searching">Suche</string>
+
+    <string name="no_sd_card_access">SD-Karte ist für den Zugriff gesperrt ist, entsperren zu app verwenden</string>
+    <string name="action_use">Benutzen</string>
+
+
+
+    <string name="latest_news">Alle RSS-Feeds</string>
+    <string name="starred_news">Star</string>
+    <string name="video_channels">Art</string>
+
+
+
+    <string name="settings_notify_tab">Benachrichtigen</string>
+    <string name="settings_alerts">Benachrichtigen Benachrichtigung</string>
+
+    <string name="settings_archive_images_head">Cleanup: Löschen Bilder</string>
+    <string name="settings_archive_images">Bilder zu löschen, nachdem </string>
+    <string name="settings_archive_stories_head">Cleanup: Löschen Geschichten</string>
+    <string name="settings_archive_stories">Geschichten zu löschen, nachdem </string>
+    <string name="settings_archive_stories_count">RSS Elementanzahl: </string>
+    <string name="settings_archive_images_count">Bildanzahl: </string>
+    <string name="text_days">Tage</string>
+
+    <string name="settings_alert_news">Wenn gefilterte Nachrichten erhalten</string>
+    <string name="settings_alert_sound">Play Standard-Sound</string>
+    <string name="settings_alert_vibrate">Vibrieren Gerät</string>
+    <string name="settings_alert_repeat_head">Nach der ersten Benachrichtigung, wenn mehr neue Warnungen</string>
+    <string name="settings_alert_time_quiet">keine Warnhinweise</string>
+    <string name="settings_alert_time_vibrate">Lassen Sie vibrieren</string>
+    <string name="settings_alert_time_both">Lassen Sie vibrieren und Ton</string>
+    <string name="settings_alert_schedule">Benachrichtigungszeitplans</string>
+    <string name="settings_alert_schedule_desc">Wählen Sie während eines jeden Zeitraum von 30 Minuten unter wie Brot darf warnen , keine, nur vibrieren oder vibrieren und Ton abspielen</string>
+</resources>

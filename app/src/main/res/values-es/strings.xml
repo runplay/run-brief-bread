@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Bread</string>
+    <string name="www_link">www.brief.ink</string>
+    <string name="email_link">support@brief.ink</string>
+    <string name="about_by">© BRIEF APP LTD, UK, 2014 adelante</string>
+
+    <string name="navigation_drawer_open">navegación Abrir</string>
+    <string name="navigation_drawer_close">Cerca de navegación</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_settings">Ajustes</string>
+
+
+    <string name="no_data">Sin datos</string>
+    <string name="news_reindex">En un momento , la aplicación de filtros de cambios en los elementos anteriores</string>
+    <string name="news_no_pub">No hay nada que mostrar para este feed RSS</string>
+    <string name="news_custom_added_note">Introduzca un RSS http url válido (http://domain/uri)</string>
+    <string name="news_custom_added_youtube">Introduzca YouTube Identificación</string>
+    <string name="news_custom_added_vimeo">Introduzca Vimeo Identificación</string>
+
+
+    <string name="news_custom_added_title">RSS propias</string>
+    <string name="news_custom_added_sub_title">Tus feeds RSS personalizados</string>
+    <string name="news_custom_rss_invalid">No se pudo validar o obtener la url RSS</string>
+    <string name="news_custom_channel_invalid">Introduzca ID canal válido</string>
+
+    <string name="news_custom_rss_already">Rss feed ya está seleccionado</string>
+    <string name="news_delete_custom">Elimine su encargo añadido fuentes RSS?</string>
+    <string name="news_delete_title">Borrar RSS?</string>
+    <string name="news_select_title">Seleccione los canales RSS de interés</string>
+
+    <string name="news_key_include_explain">escriba las palabras clave o términos clave siguió con un espacio para mostrar sólo las noticias que hacen contenerlos</string>
+    <string name="news_key_disclude_explain">escriba las palabras clave o términos clave siguió con un espacio para mostrar sólo las noticias que no contengan ellos</string>
+    <string name="news_key_title">filtros de palabras clave</string>
+    <string name="news_feeds_title">Las fuentes RSS</string>
+    <string name="news_key_style">Elija el estilo de filtro</string>
+    <string name="news_key_style_include">Incluir</string>
+    <string name="news_key_style_disclude">Eliminar</string>
+    <string name="news_key_style_include_desc">Filtrar incluye antes de quita</string>
+    <string name="news_key_style_disclude_desc">Filtro elimina antes incluye</string>
+    <string name="news_feeds_heading">Elija o establecer tus feeds RSS preferidos y filtros</string>
+    <string name="news_feeds_sync_fast">Ayunar sync (1hr)</string>
+    <string name="news_feeds_sync_medium">Medio sync (3hr)</string>
+    <string name="news_feeds_sync_slow">Lento sync (24hr)</string>
+    <string name="label_syncing">Syncing</string>
+    <string name="label_add">Añadir</string>
+
+
+    <string name="copied_to_clip">Copiado al clipboard</string>
+    <string name="copy_to_clip">Copiar a clipboard</string>
+    <string name="action_refresh">Refrescar</string>
+    <string name="news_add_text">Añadir RSS</string>
+    <string name="news_title">Las fuentes RSS</string>
+    <string name="news_all_feeds">Todos los RSS</string>
+
+    <string name="label_yes">Sí</string>
+    <string name="label_no">No</string>
+    <string name="news_menu_options">opciones</string>
+    <string name="label_working">en funcionamiento...</string>
+
+    <string name="disable_javascript">Desactivar Javascript en vista del elemento (carga más rápido y pantalla)</string>
+
+
+    <string name="news_error_load">No se puede cargar, compruebe su conexión a Internet.</string>
+
+    <string name="action_paste">Pegar</string>
+    <string name="label_copy">Copia</string>
+
+
+
+    <string name="label_delete">Borrar</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="ok">OK</string>
+
+
+    <string name="label_open">Abierto</string>
+    <string name="label_remove">Eliminar</string>
+    <string name="label_images">Imagen</string>
+    <string name="label_edit">Editar</string>
+
+    <string name="file_explore_empty">Vacío</string>
+
+    <string name="settings_tab1">Ajustes</string>
+    <string name="settings_tab2">Ayuda</string>
+    <string name="settings_tab3">Acerca de</string>
+
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_desc">Cambiar el estilo de color preferido</string>
+    <string name="settings_theme_dark">Oscuro</string>
+    <string name="settings_theme_light">Ligero</string>
+
+    <string name="settings_head_visual">Tema</string>
+
+    <string name="help_shortcuts">Navegación</string>
+    <string name="help_shortcuts_desc">Usa el botón de menú de 3 rayas para abrir el control deslizante de navegación para las opciones y atajos rápidos de todo el sistema de archivos</string>
+
+
+    <string name="help_features">Funciones útiles</string>
+    <string name="help_edit_news">Editar nuevos vínculos , utilizar para agregar / cambiar alimenta y establece programación de actualización</string>
+    <string name="help_edit_Filters">Editar filtros , utilizar palabras clave para crear incluir y eliminar reglas para los elementos se muestran en el [ Todas las noticias ] sección</string>
+    <string name="help_settings">Configuración permite cambiar la aplicación a su gusto , elija un estilo oscuro o claro , especifique cuándo archivar eliminar datos y acelerar el tiempo de carga Artículos.</string>
+    <string name="help_notify">Área Notificar permite a conjunto detallado hasta la forma de ser alertado</string>
+
+
+    <string name="search_hint">Introduzca las palabras de búsqueda...</string>
+    <string name="label_share">Compartir</string>
+    <string name="label_about">Acerca de</string>
+    <string name="about_version">versión</string>
+
+
+    <string name="share_using">Compartido de Bread - aplicación de lector</string>
+    <string name="notify_new_messages">nuevos mensajes</string>
+
+
+    <string name="no_data_news">Configure su feeds RSS para ver elementos aparecen aquí</string>
+    <string name="startup_quick_start">Inicio rápido</string>
+    <string name="startup_random_choice">Comience con canales de noticias escogidas al azar</string>
+
+
+    <string name="startup_or_detail_setup">O elegir los canales RSS de usar</string>
+    <string name="startup_manual_setup">Preparar</string>
+
+    <string name="nav_empty_feeds">Elija de comenzar a usar Bread canal de noticias preferido</string>
+
+
+    <string name="about_send_to">Por favor envíe sus sugerencias, ideas, correcciones a:</string>
+    <string name="label_archive">Comprimir</string>
+    <string name="label_extract">Extracto</string>
+
+    <string name="label_help">Ayuda</string>
+    <string name="label_options">Opciones</string>
+    <string name="label_loading">Cargando</string>
+    <string name="label_search">Buscar</string>
+    <string name="search_start">Introduzca los términos de búsqueda arriba y haga clic para buscar</string>
+    <string name="search_searching">Búsqueda</string>
+
+    <string name="no_sd_card_access">Tarjeta SD está bloqueada para el acceso, desbloquear utilizar breve</string>
+    <string name="action_use">Usar</string>
+
+
+
+    <string name="latest_news">Todos los RSS</string>
+    <string name="starred_news">Estrella</string>
+    <string name="video_channels">Escribe</string>
+
+
+
+    <string name="settings_notify_tab">Notificar</string>
+    <string name="settings_alerts">Notifique alertas</string>
+
+    <string name="settings_archive_images_head">Limpieza: Eliminar imágenes</string>
+    <string name="settings_archive_images">Elimine las imágenes después </string>
+    <string name="settings_archive_stories_head">Limpieza: Eliminar historias</string>
+    <string name="settings_archive_stories">Eliminar historias después </string>
+    <string name="settings_archive_stories_count">recuento de elementos: </string>
+    <string name="settings_archive_images_count">recuento imagen: </string>
+    <string name="text_days">día</string>
+
+    <string name="settings_alert_news">Cuando filtrada Noticias recibido</string>
+    <string name="settings_alert_sound">Reproducir sonido por defecto</string>
+    <string name="settings_alert_vibrate">dispositivo de vibración</string>
+    <string name="settings_alert_repeat_head">Después de la primera alerta, si más nuevas alertas</string>
+    <string name="settings_alert_time_quiet">No hay alertas</string>
+    <string name="settings_alert_time_vibrate">Permitir vibrar</string>
+    <string name="settings_alert_time_both">Permitir vibración y sonido</string>
+    <string name="settings_alert_schedule">Alert time schedule</string>
+    <string name="settings_alert_schedule_desc">Elija durante cada período de 30 minutos a continuación cómo se permite Pan para alertar , ninguno , sólo vibrar o vibre y reproducir sonido</string>
+</resources>
